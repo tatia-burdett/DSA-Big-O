@@ -9,4 +9,4 @@ function areYouHere(arr1, arr2) {
   return false;
 }
 
-// 0(n^k) Polynominal time -- this function contains a nested loop, requiring two levels of looping, so technically 0(n^2)
+// 0(n) performance grows in proportion with the data size
